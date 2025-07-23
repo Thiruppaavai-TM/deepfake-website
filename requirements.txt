@@ -1,0 +1,9 @@
+tensorflow==2.15.0
+keras==2.15.0
+numpy
+pandas
+matplotlib
+opencv-python-headless==4.5.3.56
+streamlit
+imageio
+
